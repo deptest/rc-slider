@@ -1,6 +1,8 @@
 # rc-slider
 ---
 
+(This is a fork of an old Version of rc-slider for my testing purpose. Please do not use for your project.)
+
 Slider UI component for React
 
 [![NPM version][npm-image]][npm-url]
